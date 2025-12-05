@@ -1,0 +1,2 @@
+# HFM
+Mining game
